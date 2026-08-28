@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.nii
+*.nii.gz
+*.BRIK
+*.HEAD
+*.1D
+*.mat
+*.csv
+*.tsv
+*.npz
+*.png
+*.pdf
+*.log
+.DS_Store
+
+
